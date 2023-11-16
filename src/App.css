@@ -1,0 +1,21 @@
+.center-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  margin-right: 40px;
+  margin-left: 40px;
+  font-size: 30px;
+}
+
+p {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
